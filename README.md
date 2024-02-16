@@ -1,16 +1,16 @@
-# app12_finalprojct
+# Wsnis
 
-A new Flutter project.
+freelance project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for my freelancing application.
 
-A few resources to get you started if this is your first Flutter project:
+Contains 4 screens:
+1- Screen for searching and viewing the nearest pharmacy or hospital.
+2- Screen to view the alarms that have been set up or add a new one.
+3- Screen to add an alarm with 5 fields for information about the medicine.
+4- Medicine details screen to view medicine dosage and information or delete it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Using Flutter Local Notifications for setting alarms.
